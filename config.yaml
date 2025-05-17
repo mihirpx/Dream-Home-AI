@@ -1,0 +1,28 @@
+cookie:
+  expiry_days: 30
+  key: Mihir
+  name: dreamhome_cookie
+credentials:
+  usernames:
+    Mihir1:
+      email: p@gmail.com
+      name: Mihir1
+      password: 15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225
+    Mihirp:
+      email: mihir@gmail.com
+      name: Mihirp
+      password: d39dd335baccde6a1ccf858d778bdfb57ab957d6b56f6e8292ed09045b84ec53
+    mihir:
+      email: mihir@example.com
+      name: Mihir
+      password: $2b$12$gwRPlz21jMJKeDeLupyBu.muH.ErypG0vE4Ctfbj0lmZns3PiEXvG
+    riddhi:
+      email: r@gmail.com
+      name: riddhi
+      password: 8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
+    riddhi1:
+      email: r@gmail.com
+      name: riddhi1
+      password: a8e10de487dc6c633e71b56ad109e316e188e4891aab9a1cf2f000b4ca95a648
+preauthorized:
+  emails: []
